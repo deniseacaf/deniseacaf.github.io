@@ -24,14 +24,14 @@ font: 1.25em Arial, Helvetica, sans-serif;
 
 a:link {
 font-family: Arial, Helvetica, sans-serif;
-color: #FF9900;
+color: #00ff9d;
 text-decoration: underline;
 }
 a:visited {
-color: #FFCC66;
+color: #00ffea;
 }
 a:hover {
-background: #FFFFCC;
+background: #e6ffcc;
 font-weight: bold;
 }
 
@@ -61,7 +61,7 @@ left: 250px;
 
 
 .topline {
-border-top: thick solid #FFCC00;
+border-top: thick solid #00ffe1;
 }
 
 
